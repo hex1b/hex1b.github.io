@@ -1,6 +1,6 @@
 # hex1b.github.io
 
-*Cosmology Resources - **Work in Progress** - last update 29th October, 2019*
+*Cosmology Resources - Work in Progress - last update 29th October, 2019*
 ---
 
 **Articles/Papers**
@@ -17,7 +17,7 @@
 **Courses**
 
 [Inflationary Cosmology (MIT - Guth)](https://www.youtube.com/watch?v=ANCN7vr9FVk)
-[PBS Space Time](https://www.youtube.com/watch?v=QXfhGxZFcVE&list=PLsPUh22kYmNAKCiGWtQ48yQVp7s-k0Os2)
+
 [The Theoretical Minimum (Stanford - Susskind)](http://theoreticalminimum.com/courses/cosmology/2013/winter)
 
 ---
@@ -31,5 +31,8 @@
 
 [Summer School on Cosmology](http://indico.ictp.it/event/7626/other-view?view=ictptimetable)
 
+**Youtube Channels**
 
-https://www.youtube.com/watch?v=IFcQuEw0oY8&list=PLJ4zAUPI-qqqj2D8eSk7yoa4hnojoCR4m&index=9
+["Before the Big Bang"](https://www.youtube.com/watch?v=IFcQuEw0oY8&list=PLJ4zAUPI-qqqj2D8eSk7yoa4hnojoCR4m&index=9)
+
+[PBS Space Time](https://www.youtube.com/watch?v=QXfhGxZFcVE&list=PLsPUh22kYmNAKCiGWtQ48yQVp7s-k0Os2)
