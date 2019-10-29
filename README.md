@@ -16,7 +16,9 @@
 ---
 **Courses**
 
-[The Theoretical Minimum (Susskind)](http://theoreticalminimum.com/courses/cosmology/2013/winter)
+[Inflationary Cosmology (MIT - Guth)](https://www.youtube.com/watch?v=ANCN7vr9FVk)
+[PBS Space Time](https://www.youtube.com/watch?v=QXfhGxZFcVE&list=PLsPUh22kYmNAKCiGWtQ48yQVp7s-k0Os2)
+[The Theoretical Minimum (Stanford - Susskind)](http://theoreticalminimum.com/courses/cosmology/2013/winter)
 
 ---
 **Websites**
@@ -28,3 +30,6 @@
 [Introduction to Cosmology](https://www.preposterousuniverse.com/activities/physics371/)
 
 [Summer School on Cosmology](http://indico.ictp.it/event/7626/other-view?view=ictptimetable)
+
+
+https://www.youtube.com/watch?v=IFcQuEw0oY8&list=PLJ4zAUPI-qqqj2D8eSk7yoa4hnojoCR4m&index=9
